@@ -21,6 +21,7 @@
     "geom-mat": "*"
   },
   "testling": {
+
     "files": "test.js",
     "harness": "mocha",
     "browsers": [
